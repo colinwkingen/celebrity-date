@@ -1,3 +1,21 @@
 .container {
   text-align: center;
 }
+
+#question {
+  background-color: #f6b4b1;
+  height: 25vw;
+}
+
+#option1 {
+  background-color: #ddf;
+}
+
+#option2 {
+  background-color: #ffa;
+}
+
+#option1, #option2 {
+  height: 50vw;
+  font-size: 4rem;
+}
